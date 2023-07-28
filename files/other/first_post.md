@@ -5,8 +5,8 @@ tags: 'linux, bash, logic, devops'
 cover_image: 'https://i.imgur.com/jpU19nM.png'
 canonical_url: null
 published: true
-id: 1552527
-date: '2023-07-28T21:46:15Z'
+id: 1552536
+date: '2023-07-28T22:07:42Z'
 ---
 
 Oi.

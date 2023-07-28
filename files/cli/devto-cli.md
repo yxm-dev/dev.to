@@ -4,10 +4,9 @@ description: 'Escreva seus artigos localmente, dê um git push e eles serão aut
 tags: 'github, automation, CLI, node'
 cover_image: ''
 canonical_url: null
-published: true
+published: false
 series: CLI Tools
-id: 1552526
-date: '2023-07-28T21:46:14Z'
+id: 1552537
 ---
 
 Introdução

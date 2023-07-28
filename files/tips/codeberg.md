@@ -6,8 +6,8 @@ cover_image: 'https://i.imgur.com/VWcCrdW.png'
 canonical_url: null
 published: true
 series: Quick Tips
-id: 1551300
-date: '2023-07-27T20:50:46Z'
+id: 1552538
+date: '2023-07-28T22:10:15Z'
 ---
 Oi.
 
