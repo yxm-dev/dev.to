@@ -7,6 +7,7 @@ canonical_url: null
 published: true
 series: CLI Tools
 id: 1552537
+date: '2023-07-29T00:42:16Z'
 ---
 
 Introdução
