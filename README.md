@@ -6,11 +6,11 @@ This repository is used to synchronize local `.md` files with articles in my [de
 
 Here (and in my [dev.to profile](https://dev.to/yxm)) you will find columns on the following topics:
 
-* [Vim](posts/vim)
-* [Shell Scripting](posts/shell)
-* [Linux](posts/linux)
-* [CLI Tools](posts/cli)
-* [Logic](posts/logic)
-* [Go](posts/go)
+* [vim](files/vim)
+* [bash](files/shell)
+* [Linux](files/linux)
+* [CLI tools](files/cli)
+* [logic](files/logic)
+* ...
 
 
