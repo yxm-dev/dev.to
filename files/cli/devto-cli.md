@@ -2,7 +2,7 @@
 title: 'devto-cli: sincronizando um repositório do GitHub com suas publicações do dev.to'
 description: 'Escreva seus artigos localmente, dê um git push e eles serão automaticamente publicados no dev.to.'
 tags: 'github, automation, CLI, node'
-cover_image: ''
+cover_image: 'https://i.imgur.com/NJyq1ao.png'
 canonical_url: null
 published: true
 series: CLI Tools

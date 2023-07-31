@@ -2,7 +2,7 @@
 title: 'Codeberg: uma alternativa Open Source e gratuita ao GitHub e GitLab'
 description: 'Codeberg é uma alternativa Open Source e gratuita ao GitHub e GitLab, focada em FOSS'
 tags: 'git, github, gitlab, opensource'
-cover_image: 'https://i.imgur.com/EwVMeYu.png'
+cover_image: 'https://i.imgur.com/FWgXUYJ.png'
 canonical_url: null
 published: true
 series: Quick Tips
