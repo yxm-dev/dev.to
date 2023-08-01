@@ -13,4 +13,8 @@ Here (and in my [dev.to profile](https://dev.to/yxm)) you will find columns on t
 * [logic](files/logic)
 * ...
 
+In the file [plan.md](plan.md) there is a list of upcoming posts.
+
+* OBS: The posts will be written mostly in Brazilian Portuguese. 
+
 
