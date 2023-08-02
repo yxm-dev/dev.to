@@ -1,11 +1,12 @@
 ---
 title: Linguagens de Programação
-description: 
+description: null
 tags: ''
 cover_image: ''
 canonical_url: null
 published: false
-series:  Theoretical Insights
+series: Theoretical Insights
+id: 1556957
 ---
 
 Introdução

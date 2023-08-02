@@ -9,7 +9,7 @@ Here (and in my [dev.to profile](https://dev.to/yxm)) you will find columns like
 * [vim](files/vim), with an introduction and tips to the [Vim](https://www.vim.org/) text editor
 * [shell](files/shell), with expositions and practical Q&A on [Bash](https://www.gnu.org/software/bash/) and other shells
 * [linux](files/linux), with tips on management of Linux systems
-* [CLI tools](files/cli), with guides to command line tools that I use
+* [CLI](files/cli), with guides to command line tools that I use
 * [logic](files/logic), with some remarks on programming logic
 * [theory](files/theory), with theoretical expositions 
 * ...
