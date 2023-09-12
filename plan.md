@@ -1,10 +1,10 @@
 
 The following is a list of posts I plan to write to my [dev.to profile](https://dev.to/yxmhttps://dev.to/yxm)
 
-
 Theory
 ----
 
+* por que estudar teoria: (Ok)
 * linguagens de programação
 * estruturas de dados
 * algoritmos
@@ -15,16 +15,16 @@ Shell
 -----
 
 * o que é Bash?
-* Como tudo funciona https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html
+* como tudo funciona https://www.gnu.org/software/bash/manual/html_node/Shell-Operation.html
 * gramática: https://www.gnu.org/software/bash/manual/html_node/Reserved-Words.html
 * Bash Builtins
 * Bash como linguagem de programação
-* Maneiras de se utilizar
+* maneiras de se utilizar
 
 Vim
 -----
 
-* Origins
+* origins
 * portabilidade
 
 
