@@ -1,11 +1,13 @@
 ---
-title: 'Por que estudar teoria?'
+title: Por que estudar teoria?
 description: 'Nesse post, apresento alguns argumentos que corroboram para a tese de que, na verdade, ter uma boa bagagem teórica pode implicar diretamente em uma melhor performance como desenvolvedor'
 tags: 'theory, study, programming, thinking'
 cover_image: 'https://i.imgur.com/H6nuc66.png'
 canonical_url: null
 published: true
-series: 'Theoretical Insights'
+series: Theoretical Insights
+id: 1558373
+date: '2023-08-03T22:59:29Z'
 ---
 
 Introdução
