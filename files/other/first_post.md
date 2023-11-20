@@ -56,7 +56,7 @@ Portanto, sim: linguagens de programação aparecem nos fundamentos da Física. 
 
 Cansado de emergir em abstração, resolvi ter contato com questões concretas (e, portanto, com as ferramentas inerentes a elas), as quais possuem potencial de influenciar, de forma mais direta e imediata, o mundo em que vivemos. Foi assim que decidi entrar pro meio do Desenvolvimento de Software...  
 
-Linux, Bash e InTUI
+Linux e Bash
 ===========
 
 Desde que entrei na universidade, em 2010, utilizo Linux. No começo fui um usuário mais passivo. Aos poucos, à medida em que me aproximava da abstração e da busca pelo essencial, tornei-me mais ativo, no sentido de não só utilizar ferramentas, mas também modificá-las e criar novas de acordo com meus interesses e necessidades.
@@ -65,14 +65,12 @@ Pra ser sincero, aprendi a programar de forma procedural em Bash. Gosto muito de
 
 No entanto, me dá um pouco de agonia ver como lidar só com linha de comando pode ser contra intuitivo. Sinto-me forçado a recorrer a documentações da GNU recorrentemente, bem como a (salvadora) [ArchWiki](https://wiki.archlinux.org/). Nesse sentido, tenho medido alguns esforços para construir um ambiente mais intuitivo que, quem sabe, possa servir não só a mim, mas a outros que desejam viver no terminal sem serem grandes especialistas em Linux. Chamo tal projeto de *InTUI* (uma mistura de "intuição" com "TUI"). Trata-se de um conjunto de funções e scripts em Bash, as quais disponibilizo em meu [GitHub](https://github.com/yxm-dev).
 
-DevOps Collab
-============
+Lab
+======
 
-Naturalmente, tenho me deixado envolver pela parte de administração de servidores Linux e, agora, pelas ferramentas ligadas à computação na nuvem. Confesso que tenho um pouco de dificuldade de aprender coisas novas sem analisá-las de um ponto de vista mais formal. Com efeito, necessito de definições precisas para me fazer entender.
+Tenho tentado pegar o hábito de documentar minhas dúvidas e as respostas que melhor se adequam a elas. Como as dúvidas são recorrentes, fica mais simples de encontrar a resposta caso precise outra vez. Junto delas tenho criado listas com documentações e referências complementares para softwares que utilizo, além de um "dicionário" contendo uma tentativa de dar definições mais precisas a termos do meio.
 
-Indo nessa direção, decidi ir compilando o meu entendimento sobre DevOps em uma wiki no GitHub. A ideia é que seja um projeto aberto a quem queira participar. Por conta disso, chamei-o de [DevOps Collab](https://github.com/yxm-dev/collab).  Além de definições precisas e uma organização mais lógica das informações, tenho adicionado, ainda, listas de perguntas e respostas, estas sobre questões bem práticas e que me acometem rotineiramente.
-
-Se é do seu interesse, sinta-se à vontade para fazer parte!
+Pensando que talvez possa ser útil a alguém, disponibilizo o conteúdo na página [lab.yxm.me](https://lab.yxm.me), cujos arquivos `.md` subjacentes podem ser encontrados [neste](https://codeberg.org/yxm/lab) repositório no [Codeberg](https://codeberg.org).
 
 O que esperar de mim
 ===========
@@ -89,9 +87,9 @@ bem como algo sobre Lógica, abstração, teoria das categorias, teoria de tipos
 Fim
 =====
 
-Se quiser saber um pouco mais sobre mim, sobre meus trabalhos e projetos, dê uma olhada em meu website [yxmartins.me](https://yxmartins.me) e, caso queira conversar, não hesite em me contatar.
+Se quiser saber um pouco mais sobre mim, sobre meus trabalhos e projetos, dê uma olhada em meu website [yxm.me](https://yxm.me) e, caso queira conversar, não hesite em me contatar.
 
-Um abraço e até mais.
+Um abraço e até mais!
 
 
 
