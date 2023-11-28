@@ -28,3 +28,7 @@ Fica a sugestão. Talvez valha a pena conhecer.
 Um abraço e até mais,
 
 Yuri.
+
+* [yxm.me](https://yxm.me)
+* [github.com/yxm-dev](https://github.com/yxm.dev)
+* [codeberg.com/yxm](https://codeberg.com/yxm)

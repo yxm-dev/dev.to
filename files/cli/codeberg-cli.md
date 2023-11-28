@@ -98,3 +98,6 @@ Um abraço e até mais.
 
 Yuri Ximenes Martins
 
+* [yxm.me](https://yxm.me)
+* [github.com/yxm-dev](https://github.com/yxm.dev)
+* [codeberg.com/yxm](https://codeberg.com/yxm)

@@ -87,10 +87,9 @@ bem como algo sobre Lógica, abstração, teoria das categorias, teoria de tipos
 Fim
 =====
 
-Se quiser saber um pouco mais sobre mim, sobre meus trabalhos e projetos, dê uma olhada em meu website [yxm.me](https://yxm.me) e, caso queira conversar, não hesite em me contatar.
-
 Um abraço e até mais!
 
-
-
+* [yxm.me](https://yxm.me)
+* [github.com/yxm-dev](https://github.com/yxm.dev)
+* [codeberg.com/yxm](https://codeberg.com/yxm)
 

@@ -154,4 +154,12 @@ function vim(){
     fi
 }
 ```
+# Fim
 
+Até mais,
+
+Yuri.
+
+* [yxm.me](https://yxm.me)
+* [github.com/yxm-dev](https://github.com/yxm.dev)
+* [codeberg.com/yxm](https://codeberg.com/yxm)

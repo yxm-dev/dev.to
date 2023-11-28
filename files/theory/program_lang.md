@@ -77,4 +77,12 @@ Ao se querer enfatizar que uma linguagem de máquina envolve a comunicação de 
 
 Existem muitas outras classificações e subtipos de linguagens de programação. Por outro lado, assim como os diferentes tipos de linguagens (naturais, formais, humanas, de máquina, etc.) admitem a mesma estrutura (gramática, sintaxe e semântica), as diferentes classes de linguagens de programação possuem muitos aspectos em comum. A área de estudo que estuda tais aspectos em comum é chamada de Teoria das Linguagens de Programação ([Programming Language Theory](https://en.wikipedia.org/wiki/Programming_language_theory)). Conhecer um pouco dela significa *aprender sobre* ***todas*** *as linguagens de programação ao mesmo tempo*!
 
+# Fim
 
+Até mais,
+
+Yuri.
+
+* [yxm.me](https://yxm.me)
+* [github.com/yxm-dev](https://github.com/yxm.dev)
+* [codeberg.com/yxm](https://codeberg.com/yxm)

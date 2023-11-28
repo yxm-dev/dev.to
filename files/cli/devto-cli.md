@@ -107,4 +107,11 @@ Para remediar o problema e automatizar o processo de publicação, criei uma fun
 
 Pronto! Agora basta executar `devp` para publicar seus artigos no [dev.to](https://dev.to) e, ao mesmo tempo, mantê-los em seu repositório do GitHub.
 
+# Fim
 
+Até mais,
+Yuri.
+
+* [yxm.me](https://yxm.me)
+* [github.com/yxm-dev](https://github.com/yxm.dev)
+* [codeberg.com/yxm](https://codeberg.com/yxm)
