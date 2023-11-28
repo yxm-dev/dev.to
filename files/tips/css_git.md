@@ -1,12 +1,13 @@
 ---
-title: "Como utilizar um `.css` hospedado no GitHub ou Codeberg em um projeto HTML?" 
-description: "Nesse post apresentamos duas abordagens para se utilizar  arquivos .css que estão hospedados no
-Github ou no Codeberg diretamente em projetos HTML"
+title: Como utilizar um `.css` hospedado no GitHub ou Codeberg em um projeto HTML?
+description: Nesse post apresentamos duas abordagens para se utilizar  arquivos .css que estão hospedados no Github ou no Codeberg diretamente em projetos HTML
 tags: 'css, html, github, codeberg'
 cover_image: 'https://i.imgur.com/iy1igb0.png'
-series: Quick Tips
+sseries: Quick Tips
 canonical_url: null
 published: true
+id: 1681616
+date: '2023-11-28T17:10:35Z'
 ---
 
 # Introdução
@@ -106,3 +107,7 @@ Outra alternativa seria colocar seus arquivos `.css` num S3 Bucket na AWS ou em 
 
 Até mais,
 Yuri.
+
+* [yxm.me](https://yxm.me)
+* [github.com/yxm-dev](https://github.com/yxm.dev)
+* [codeberg.com/yxm](https://codeberg.com/yxm)
