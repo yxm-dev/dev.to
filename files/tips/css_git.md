@@ -3,7 +3,7 @@ title: Como utilizar um `.css` hospedado no GitHub ou Codeberg em um projeto HTM
 description: Nesse post apresentamos duas abordagens para se utilizar  arquivos .css que estão hospedados no Github ou no Codeberg diretamente em projetos HTML
 tags: 'css, html, github, codeberg'
 cover_image: 'https://i.imgur.com/iy1igb0.png'
-sseries: Quick Tips
+series: Quick Tips
 canonical_url: null
 published: true
 id: 1681616
