@@ -22,7 +22,7 @@ Suponhamos que você utiliza o Codeberg Pages e, na maioria dos casos, sua pági
 
 Nesse caso, não se desespere! O servidor que mantém o Codeberg Pages passa, vez ou outra, por instabilidades. Lembremos que é um serviço gratuito, com foco total em projetos open-source, e mantido por doações (veja [aqui](https://docs.codeberg.org/getting-started/faq/#is-codeberg-well-funded%3F)), algo que não pode ser comparado com o GitHub (o qual é mantido pela Microsoft) nem com o Gitlab (que é uma empresa privada, com fins lucrativos).
 
-![Failed Dependency! (...) could not find target for custom domain](https://i.imgur.com/zCjKLj0.png).
+![Failed Dependency! (...) could not find target for custom domain](https://i.imgur.com/zCjKLj0.png)
 
 # Erro 2
 
