@@ -1,11 +1,13 @@
 ---
 title: 'Sobre a validação da pesquisa, Qualis Capes e as grandes empresas de editoração: um desabafo'
-description: 'Nesse post apresento algumas reflexões sobre o processo de validação científica amplamente adotado no mundo e, em particular, aqui no Brasil.' 
+description: 'Nesse post apresento algumas reflexões sobre o processo de validação científica amplamente adotado no mundo e, em particular, aqui no Brasil.'
 tags: 'research, pesquisa, capes, paper'
 cover_image: 'https://i.imgur.com/2PpxHxR.png'
 canonical_url: null
 published: true
 series: Research
+id: 1694671
+date: '2023-12-11T18:38:10Z'
 ---
 
 # Introdução
